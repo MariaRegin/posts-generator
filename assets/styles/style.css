@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(37, 43, 37);
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(37, 43, 37);
+  margin: 25px;
+}
+
+h2 {
+  color: rgb(85, 110, 85);
+  margin: 30px;
+}
+
+h3 {
+  color: grey;
+}
+
+input {
+  height: 25px;
+  width: 200px;
+  margin: 10px;
+}
+
+button {
+  height: 40px;
+  width: 150px;
+  background-color: rgb(193, 154, 70);
+  margin: 7px;
+}
